@@ -1,0 +1,18 @@
+2025/06/14-16:22:32.751 43a07 Reusing MANIFEST /home/bowser/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/14-16:22:32.751 43a07 Recovering log #39
+2025/06/14-16:22:32.751 43a07 Reusing old log /home/bowser/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000039.log 
+2025/06/14-16:22:33.655 43a07 Compacting 1@1 + 1@2 files
+2025/06/14-16:22:33.735 43a07 Generated table #42@1: 464 keys, 57403 bytes
+2025/06/14-16:22:33.735 43a07 Compacted 1@1 + 1@2 files => 57403 bytes
+2025/06/14-16:22:33.835 43a07 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/14-16:22:33.835 43a07 Delete type=2 #37
+2025/06/14-16:22:33.836 43a07 Delete type=2 #40
+2025/06/14-17:17:37.327 43a08 Level-0 table #44: started
+2025/06/14-17:17:37.367 43a08 Level-0 table #44: 1298463 bytes OK
+2025/06/14-17:17:37.426 43a08 Delete type=0 #39
+2025/06/14-17:19:27.201 43a07 Compacting 1@1 + 1@2 files
+2025/06/14-17:19:27.244 43a07 Generated table #45@1: 578 keys, 60717 bytes
+2025/06/14-17:19:27.244 43a07 Compacted 1@1 + 1@2 files => 60717 bytes
+2025/06/14-17:19:27.352 43a07 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/14-17:19:27.352 43a07 Delete type=2 #42
+2025/06/14-17:19:27.352 43a07 Delete type=2 #44
