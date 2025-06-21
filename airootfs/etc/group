@@ -1,0 +1,17 @@
+root:x:0:root
+sys:x:3:bin,wavesuser
+network:x:90:wavesuser
+power:x:98:wavesuser
+adm:x:999:wavesuser
+wheel:x:998:wavesuser
+uucp:x:987:wavesuser
+optical:x:990:wavesuser
+rfkill:x:983:wavesuser
+video:x:986:wavesuser
+storage:x:988:wavesuser
+audio:x:995:wavesuser
+users:x:985:wavesuser
+nopasswdlogin:x:966:wavesuser
+autologin:x:967:wavesuser
+wavesuser:x:1000:
+
