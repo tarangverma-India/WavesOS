@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/bowser/WavesOS/releng/airootfs/etc/pacman.d/mirrorlist" added="2025-06-13T10:19:22.528699Z" modified="2025-06-13T10:19:22.528709Z" visited="2025-06-13T10:19:22.528700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T10:19:22.528704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bowser/WavesOS/releng/airootfs/etc/sddm.conf.d/theme.conf.user" added="2025-06-13T10:20:37.585417Z" modified="2025-06-13T10:20:37.585427Z" visited="2025-06-13T10:20:37.585418Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-06-13T10:20:37.585421Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bowser/WavesOS/output/WavesOS-2025.06.13-x86_64.iso" added="2025-06-13T15:53:59.487568Z" modified="2025-06-13T15:57:35.584773Z" visited="2025-06-13T15:53:59.487568Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2025-06-13T15:53:59.487569Z" count="1"/>
+          <bookmark:application name="Boxes" exec="&apos;org.gnome.Boxes %u&apos;" modified="2025-06-13T15:57:35.584772Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bowser/Downloads/a_collage_of_images_of_a_person_riding_a_horse.jpg" added="2025-06-14T07:43:21.369000Z" modified="2025-06-14T07:43:21.369000Z" visited="2025-06-14T07:43:21.369000Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="" exec="dolphin %f" modified="2025-06-14T07:43:21.369000Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bowser/WavesOS/output/wavesos-2025.06.14-x86_64.iso" added="2025-06-14T08:56:04.945001Z" modified="2025-06-14T08:56:04.945004Z" visited="2025-06-14T08:56:04.945001Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.efi.iso"/>
+        <bookmark:applications>
+          <bookmark:application name="Boxes" exec="&apos;org.gnome.Boxes %u&apos;" modified="2025-06-14T08:56:04.945002Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
