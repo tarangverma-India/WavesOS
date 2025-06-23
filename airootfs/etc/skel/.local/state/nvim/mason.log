@@ -1,0 +1,26 @@
+[INFO  Fri 13 Jun 2025 03:49:40 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=prettier) {}
+[INFO  Fri 13 Jun 2025 03:49:40 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=isort) {}
+[INFO  Fri 13 Jun 2025 03:49:40 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=black) {}
+[INFO  Fri 13 Jun 2025 03:49:40 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=eslint_d) {}
+[INFO  Fri 13 Jun 2025 03:49:42 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=html-lsp) {}
+[INFO  Fri 13 Jun 2025 03:49:42 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=prettier)
+[INFO  Fri 13 Jun 2025 03:49:43 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=css-lsp) {}
+[INFO  Fri 13 Jun 2025 03:49:43 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=isort)
+[INFO  Fri 13 Jun 2025 03:49:45 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=tailwindcss-language-server) {}
+[INFO  Fri 13 Jun 2025 03:49:45 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=eslint_d)
+[INFO  Fri 13 Jun 2025 03:49:45 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=svelte-language-server) {}
+[INFO  Fri 13 Jun 2025 03:49:45 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=black)
+[INFO  Fri 13 Jun 2025 03:49:45 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Fri 13 Jun 2025 03:49:45 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=css-lsp)
+[INFO  Fri 13 Jun 2025 03:49:47 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=emmet-ls) {}
+[ERROR Fri 13 Jun 2025 03:49:47 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=lua-language-server) error="...vim/lazy/mason.nvim/lua/mason-core/installer/context.lua:370: module 'mason-core.managers.std' not found:\n\tno field package.preload['mason-core.managers.std']\n\tcache_loader: module 'mason-core.managers.std' not found\n\tcache_loader_lib: module 'mason-core.managers.std' not found\n\tno file './mason-core/managers/std.lua'\n\tno file '/usr/share/luajit-2.1/mason-core/managers/std.lua'\n\tno file '/usr/local/share/lua/5.1/mason-core/managers/std.lua'\n\tno file '/usr/local/share/lua/5.1/mason-core/managers/std/init.lua'\n\tno file '/usr/share/lua/5.1/mason-core/managers/std.lua'\n\tno file '/usr/share/lua/5.1/mason-core/managers/std/init.lua'\n\tno file '/home/bowser/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/mason-core/managers/std.lua'\n\tno file '/home/bowser/.local/share/nvim/lazy-rocks/telescope.nvim/share/lua/5.1/mason-core/managers/std/init.lua'\n\tno file './mason-core/managers/std.so'\n\tno file '/usr/local/lib/lua/5.1/mason-core/managers/std.so'\n\tno file '/usr/lib/lua/5.1/mason-core/managers/std.so'\n\tno file '/usr/local/lib/lua/5.1/loadall.so'\n\tno file '/home/bowser/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/mason-core/managers/std.so'\n\tno file '/home/bowser/.local/share/nvim/lazy-rocks/telescope.nvim/lib64/lua/5.1/mason-core/managers/std.so'\n\tno file './mason-core.so'\n\tno file '/usr/local/lib/lua/5.1/mason-core.so'\n\tno file '/usr/lib/lua/5.1/mason-core.so'\n\tno file '/usr/local/lib/lua/5.1/loadall.so'\n\tno file '/home/bowser/.local/share/nvim/lazy-rocks/telescope.nvim/lib/lua/5.1/mason-core.so'\n\tno file '/home/bowser/.local/share/nvim/lazy-rocks/telescope.nvim/lib64/lua/5.1/mason-core.so'"
+[INFO  Fri 13 Jun 2025 03:49:47 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=tailwindcss-language-server)
+[INFO  Fri 13 Jun 2025 03:49:50 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=html-lsp)
+[INFO  Fri 13 Jun 2025 03:49:53 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=emmet-ls)
+[INFO  Fri 13 Jun 2025 03:49:54 PM IST] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=svelte-language-server)
+[INFO  Fri 13 Jun 2025 03:50:40 PM IST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:40: Executing installer for Package(name=lua-language-server) {
+  debug = false,
+  force = false,
+  strict = false
+}
+[INFO  Fri 13 Jun 2025 03:50:42 PM IST] ...zy/mason.nvim/lua/mason-core/installer/InstallRunner.lua:86: Installation succeeded for Package(name=lua-language-server)
