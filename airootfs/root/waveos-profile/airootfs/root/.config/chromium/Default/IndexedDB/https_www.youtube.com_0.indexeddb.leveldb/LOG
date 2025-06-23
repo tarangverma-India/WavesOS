@@ -1,0 +1,8 @@
+2025/06/14-17:35:38.101 123767 Reusing MANIFEST /home/bowser/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/14-17:35:38.101 123767 Recovering log #43
+2025/06/14-17:35:38.103 123767 Reusing old log /home/bowser/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000043.log 
+2025/06/14-18:00:39.199 123767 Level-0 table #48: started
+2025/06/14-18:00:39.253 123767 Level-0 table #48: 1281502 bytes OK
+2025/06/14-18:00:39.321 123767 Delete type=0 #43
+2025/06/14-18:14:25.388 123767 Compacting 1@1 + 1@2 files
+2025/06/14-18:14:25.392 123767 compacted to: files[ 0 1 1 0 0 0 0 ]
