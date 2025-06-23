@@ -1,0 +1,14 @@
+[source]
+name=QEMU Session
+type=libvirt
+uri=qemu+unix:///session
+save-on-quit=true
+
+[display 35851a8f-bd5f-4aae-8909-a93bc513c9d6]
+last-seen-name=wavesos-2025 2
+uuid=35851a8f-bd5f-4aae-8909-a93bc513c9d6
+acceleration-3d=false
+run-in-bg=false
+access-last-time=1749892562853542
+access-ntimes=2
+access-total-time=1179

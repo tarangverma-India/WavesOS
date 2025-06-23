@@ -1,0 +1,1 @@
+/home/bowser/.zsh/.zshrc

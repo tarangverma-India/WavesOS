@@ -1,0 +1,18 @@
+2025/06/14-17:35:26.414 4 Reusing MANIFEST /home/bowser/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2025/06/14-17:35:26.418 4 Recovering log #52
+2025/06/14-17:35:26.418 4 Reusing old log /home/bowser/.config/chromium/Default/Local Storage/leveldb/000052.log 
+2025/06/14-17:44:05.068 5 Level-0 table #56: started
+2025/06/14-17:44:05.105 5 Level-0 table #56: 18414 bytes OK
+2025/06/14-17:44:05.181 5 Delete type=0 #52
+2025/06/14-18:05:51.053 5 Level-0 table #58: started
+2025/06/14-18:05:51.117 5 Level-0 table #58: 107576 bytes OK
+2025/06/14-18:05:51.185 5 Delete type=0 #55
+2025/06/14-18:05:51.186 5 Compacting 4@0 + 1@1 files
+2025/06/14-18:05:51.226 5 Generated table #59@0: 561 keys, 364761 bytes
+2025/06/14-18:05:51.226 5 Compacted 4@0 + 1@1 files => 364761 bytes
+2025/06/14-18:05:51.292 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/14-18:05:51.293 5 Delete type=2 #49
+2025/06/14-18:05:51.293 5 Delete type=2 #51
+2025/06/14-18:05:51.294 5 Delete type=2 #53
+2025/06/14-18:05:51.294 5 Delete type=2 #56
+2025/06/14-18:05:51.294 5 Delete type=2 #58
